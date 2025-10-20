@@ -27,7 +27,7 @@ Instructions for achieving this appearance are detailed below.
     Note that this is the **only** change you should make to the `.html` file for this exercise.
 
 2. Following a mobile-first approach, the "default" styling will be for extra-small screens.
-
+ 
     - The `body` should have a margin of `.5rem` of around all the content. The background should be a nice blue (`#93b8d7`), and the text content should be colored `white`.
 
     - The "navigation" icon links (top-right corner) should also be `white` and increased in size to `2.5rem`. Add `.5em` of space to the right of each link's content (the space is measured in `em` so it wil adjust with the icon sizes!)
